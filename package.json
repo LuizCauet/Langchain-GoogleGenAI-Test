@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@langchain/core": "^1.1.13",
+    "@langchain/google-genai": "^2.1.8",
+    "@langchain/google-vertexai": "^2.1.8",
+    "dotenv": "^17.2.3",
+    "langchain": "^1.2.8"
+  }
+}
